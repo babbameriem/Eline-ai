@@ -1,0 +1,42 @@
+classe	key
+restaurant	restaurant
+restaurant	table
+restaurant	caisse
+restaurant	serveur
+restaurant	resto
+restaurant	couvert
+restaurant	repas
+peage	autoroute
+peage	sortie
+peage	entree
+peage	km parcourus
+peage	certificat de passage
+peage	bonne route
+peage	voie
+peage	route
+parking	park
+parking	parc
+parking	stationnement
+parking	justificatif de paiement
+parking	parking
+train	depart
+train	depart
+train	arrivee
+train	classe
+train	voyageur
+train	billet
+train	train
+train	gare
+hotel	hotel
+hotel	sejour
+hotel	chambre
+hotel	reception
+hotel	suite
+hotel	service
+hotel	lux
+avion	avion
+avion	billet d avion
+avion	voyage 
+avion	aller
+avion	retour
+avion	aller retour

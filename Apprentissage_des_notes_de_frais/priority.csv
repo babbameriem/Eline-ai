@@ -1,0 +1,13 @@
+priority	word
+1	montant
+2	total
+3	totaux
+4	soustotal
+5	prix ttc
+6	tarif ttc
+7	tarif t.t.c
+8	tarif
+9	prix tc
+10	prix
+12	paiement
+11	prix tic
